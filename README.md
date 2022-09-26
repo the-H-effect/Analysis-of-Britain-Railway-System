@@ -40,6 +40,7 @@ Visual studio Analysis services (SSAS) provides a layer where table names and co
 ## Deep Dive
 The First Business question askes if the number of passenger trips has grown for Virgin’s West Coast route. The results in the SSAS Browser compares the number of passenger trip for west coast looking at year 2011 and year 2019.
 The number of passenger trips has increased from 30 to 37 million, a positive trend, implying an increase in the growth indicator. The insight also shows that Virgin Train achieved this increase in number of passenger trips with a smaller number of trains, which is some good efficiency on west coast part.
+
 The second business question shows a drop of the PPM score to 80%, meaning a smaller number of trains were arriving within 10 minutes of their scheduled arrival time. This means that even though they had a smaller number of trains, there was no improvement in their PPM. This performance indicators therefore shows that virgin is not doing so well when it comes to train performance.
 ![Screenshot_20220926-012336_Office](https://user-images.githubusercontent.com/114383545/192223578-ea4dbecd-0b0f-4388-93ca-d924c7c8c5ca.jpg) 
 
